@@ -10,3 +10,6 @@ fedi-libs now focus for maintenance ActivityPub library (e.g, apkit, apmodel, ap
 
 ## Server
 - [kagura](https://github.com/fedi-libs/kagura) is mastodon api-compatible activitypub implemention, based on apkit.
+
+## Links
+- [Matrix](https://matrix.to/#/#fedi-libs:matrix.org)
