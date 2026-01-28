@@ -1,0 +1,18 @@
+{
+  "templates": [
+    {
+      "id": "basic",
+      "author": "fedi-libs",
+      "name": "Basic Starter",
+      "url": "https://github.com/fedi-libs/template-basic",
+      "description": "Basic Template for apkit"
+    },
+    {
+      "id": "custom",
+      "author": "fedi-libs",
+      "name": "Custom",
+      "url": null,
+      "description": "Dummy Choise for Custom Template"
+    }
+  ]
+}
