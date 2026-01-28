@@ -4,7 +4,7 @@
       "id": "basic",
       "author": "fedi-libs",
       "name": "Basic Starter",
-      "url": "https://github.com/fedi-libs/template-basic",
+      "url": "https://github.com/fedi-libs/template-basic.git",
       "description": "Basic Template for apkit"
     },
     {
