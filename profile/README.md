@@ -13,3 +13,8 @@ fedi-libs now focus for maintenance ActivityPub library (e.g, apkit, apmodel, ap
 
 ## Links
 - [Matrix](https://matrix.to/#/#fedi-libs:matrix.org)
+
+## Thanks
+  <a href="https://flatt.tech/oss/gmo/trampoline" target="_blank">
+      <img src="https://flatt.tech/assets/images/badges/gmo-oss.svg" height="24px"/>
+  </a>
