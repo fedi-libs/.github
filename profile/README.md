@@ -1,4 +1,7 @@
 # About fedi-libs
+> [!IMPORTANT]
+> Current Status: https://github.com/orgs/fedi-libs/discussions/2
+
 fedi-libs is created with the goal of expanding Python libraries related to the Fediverse.
 
 fedi-libs now focus for maintenance ActivityPub library (e.g, apkit, apmodel, apsig)
